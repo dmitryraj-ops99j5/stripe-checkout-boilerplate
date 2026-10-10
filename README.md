@@ -10,4 +10,4 @@ pip install -r requirements.txt
 
 The session URL is printed to stdout and copied to clipboard if `pyperclip` is available. Amounts are in smallest currency unit (cents/pence).
 
-<!-- verified: 2026-10-09 -->
+<!-- verified: 2026-10-10 -->
